@@ -1,49 +1,72 @@
-✨
-V2 Available Now!Try the new version
-Upgrade to V2 →
-✕
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-24250
-Fork on GitHub
-8339
+<div align="center">
+  <img src="./banner.png" width="100%"/>
+</div>
 
+<br/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Student+%7C+Future+Full-Stack+Developer;Python+%7C+Java+%7C+GitHub;Learning+every+single+day...)](https://git.io/typing-svg)
 
+---
 
+<img align="right" src="https://media.tenor.com/rBNaFDycVccAAAAC/guts-berserk.gif" width="280px" style="border-radius:8px"/>
 
-<h1 align="center">Hi 👋, I'm Kest</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+## ![](https://i.imgur.com/zDMhiAU.png) *About me*
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+Hello! I'm **Luiz (kest)**, a student from Brazil 🇧🇷 passionate about technology, programming and building things from scratch.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- 🎓 Student from Ponta Grossa, PR — Brasil
+- 💻 Future Full-Stack Developer — still learning every day
+- 🐍 Currently studying **Python** and **Java**
+- 🔧 PC Hardware enthusiast & tech lover
+- 🎮 Gamer: Roblox & Minecraft
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-GitHub Profile github profile markdown generator logo
-README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me a Coffee
+<br clear="right"/>
+
+---
+
+## ![](https://i.imgur.com/zDMhiAU.png) *Languages & Tools*
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+
+</div>
+
+---
+
+## ![](https://i.imgur.com/zDMhiAU.png) *Statistics*
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=K3st777&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=1a1200&hide_border=false&border_color=2a2a2a&title_color=ffffff)](https://github.com/K3st777)
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=K3st777&show_icons=true&theme=dark&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&bg_color=000000&border_color=2a2a2a&count_private=true)](https://github.com/K3st777)&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K3st777&layout=compact&theme=dark&title_color=ffffff&text_color=aaaaaa&bg_color=000000&border_color=2a2a2a)](https://github.com/K3st777)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=K3st777&theme=dark&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&background=000000&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=ffffff)](https://github.com/K3st777)
+
+</div>
+
+---
+
+## ![](https://i.imgur.com/zDMhiAU.png) *Contact*
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/luiz.renato.starcke%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luiz.renato.starcke@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <i>"In this world, is the destiny of mankind controlled by some transcendental entity or law? Is it like the hand of God hovering above?" — Guts, Berserk</i>
+</div>
