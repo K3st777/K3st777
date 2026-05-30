@@ -18,7 +18,7 @@
 
 ### `About Me`
 
-I'm **Luiz (kest)** — a student from 🇧🇷 Brazil, passionate about technology and software development. Still early in my journey, building my path one line of code at a time.
+I'm **Luiz (kest)** a student from 🇧🇷 Brazil, passionate about technology and software development. Still early in my journey, building my path one line of code at a time.
 
 - 📍 Ponta Grossa, PR — Brazil
 - 📚 Learning **Python**, **Java** & web fundamentals
