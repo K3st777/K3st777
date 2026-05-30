@@ -14,7 +14,7 @@
 
 ---
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="200px"/>
+<img align="right" src="https://github.com/K3st777/K3st777/blob/main/guts-berserk.gif"/>
 
 ### `About Me`
 
