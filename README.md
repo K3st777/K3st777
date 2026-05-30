@@ -8,7 +8,7 @@
 
 ---
 
-<img align="right" src="https://pin.it/6PmlBuCEM" width="280px" style="border-radius:8px"/>
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyZ2V6NHZ1cWswZmFxMzU5Mm9haHQ0dzJ3dTlkemJzdjdlaXdza29ncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RlwF2vFb4y7bDnWvcO/giphy.gif"/>
 
 ## ![](https://i.imgur.com/zDMhiAU.png) *About me*
 
