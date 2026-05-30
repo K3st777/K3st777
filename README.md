@@ -4,27 +4,32 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Student+%7C+Future+Full-Stack+Developer;Python+%7C+Java+%7C+GitHub;Learning+every+single+day...)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Student+%7C+Future+Full-Stack+Developer;Python+%7C+Java+%7C+JavaScript;Building+skills+one+day+at+a+time.)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
 
 ---
 
-<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyZ2V6NHZ1cWswZmFxMzU5Mm9haHQ0dzJ3dTlkemJzdjdlaXdza29ncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RlwF2vFb4y7bDnWvcO/giphy.gif"/>
+<img align="right" src="./tux.webp" width="200px"/>
 
-## ![](https://i.imgur.com/zDMhiAU.png) *About me*
+### `whoami`
 
-Hello! I'm **Luiz (kest)**, a student from Brazil 🇧🇷 passionate about technology, programming and building things from scratch.
+I'm **Luiz (kest)** — a student from 🇧🇷 Brazil, passionate about technology and software development. Still early in my journey, building my path one line of code at a time.
 
-- 🎓 Student from Ponta Grossa, PR — Brasil
-- 💻 Future Full-Stack Developer — still learning every day
-- 🐍 Currently studying **Python** and **Java**
-- 🔧 PC Hardware enthusiast & tech lover
-- 🎮 Gamer: Roblox & Minecraft
+- 📍 Ponta Grossa, PR — Brazil
+- 📚 Learning **Python**, **Java** & web fundamentals
+- 🔧 PC Hardware enthusiast
+- 🎮 Gamer on free time
 
 <br clear="right"/>
 
 ---
 
-## ![](https://i.imgur.com/zDMhiAU.png) *Languages & Tools*
+### `languages & tools`
 
 <div align="center">
 
@@ -42,31 +47,36 @@ Hello! I'm **Luiz (kest)**, a student from Brazil 🇧🇷 passionate about tech
 
 ---
 
-## ![](https://i.imgur.com/zDMhiAU.png) *Statistics*
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=K3st777&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=1a1200&hide_border=false&border_color=2a2a2a&title_color=ffffff)](https://github.com/K3st777)
+### `stats`
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=K3st777&show_icons=true&theme=dark&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&bg_color=000000&border_color=2a2a2a&count_private=true)](https://github.com/K3st777)&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K3st777&layout=compact&theme=dark&title_color=ffffff&text_color=aaaaaa&bg_color=000000&border_color=2a2a2a)](https://github.com/K3st777)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=K3st777&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=111111&hide_border=false&border_color=222222&title_color=ffffff)](https://github.com/K3st777)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=K3st777&theme=dark&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&background=000000&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=ffffff)](https://github.com/K3st777)
+<br/>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=K3st777&show_icons=true&theme=dark&title_color=ffffff&icon_color=ffffff&text_color=888888&bg_color=000000&border_color=222222&count_private=true)](https://github.com/K3st777)&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K3st777&layout=compact&theme=dark&title_color=ffffff&text_color=888888&bg_color=000000&border_color=222222)](https://github.com/K3st777)
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=K3st777&theme=dark&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&background=000000&border=222222&stroke=222222&dates=666666&sideLabels=ffffff)](https://github.com/K3st777)
 
 </div>
 
 ---
 
-## ![](https://i.imgur.com/zDMhiAU.png) *Contact*
+### `contact`
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/luiz.renato.starcke%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luiz.renato.starcke@gmail.com)
+[![ProtonMail](https://img.shields.io/badge/k3st777%40proton.me-000000?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:k3st777@proton.me)
 
 </div>
 
 ---
 
 <div align="center">
-  <i>"In this world, is the destiny of mankind controlled by some transcendental entity or law? Is it like the hand of God hovering above?" — Guts, Berserk</i>
+  <img src="./galaxy.webp" width="120px"/>
+  <br/>
+  <sub><i>"Is the destiny of mankind controlled by some transcendental entity? Is it like the hand of God hovering above?" — Guts</i></sub>
 </div>
