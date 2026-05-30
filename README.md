@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Student+%7C+Future+Full-Stack+Developer;Python+%7C+Java+%7C+JavaScript;Building+skills+one+day+at+a+time.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=false&width=500&lines=Student+%7C+Future+Full-Stack+Developer;Learning+Python+%26+Java;Building+skills+one+day+at+a+time)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,7 +14,7 @@
 
 ---
 
-<img align="right" src="./tux.webp" width="200px"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="200px"/>
 
 ### `whoami`
 
@@ -76,7 +76,5 @@ I'm **Luiz (kest)** — a student from 🇧🇷 Brazil, passionate about technol
 ---
 
 <div align="center">
-  <img src="./galaxy.webp" width="120px"/>
-  <br/>
   <sub><i>"Is the destiny of mankind controlled by some transcendental entity? Is it like the hand of God hovering above?" — Guts</i></sub>
 </div>
