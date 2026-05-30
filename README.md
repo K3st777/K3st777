@@ -16,7 +16,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="200px"/>
 
-### `whoami`
+### `About Me`
 
 I'm **Luiz (kest)** — a student from 🇧🇷 Brazil, passionate about technology and software development. Still early in my journey, building my path one line of code at a time.
 
