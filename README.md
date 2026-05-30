@@ -19,9 +19,10 @@
 
 <br/>
 
+<!-- PROFILE VIEWS — redireciona pro GitHub -->
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=K3st777&style=flat-square&color=ffffff&label=PROFILE+VIEWS)
+[![Profile Views](https://komarev.com/ghpvc/?username=K3st777&style=flat-square&color=ffffff&label=PROFILE+VIEWS)](https://github.com/K3st777)
 
 </div>
 
@@ -33,7 +34,7 @@
 
 Currently learning **Python**, **Java** and **web fundamentals**, building real projects and growing every day as a developer.
 
-<img align="right" width="220px" src="https://github.com/K3st777/K3st777/blob/0d5574a28e3a4654e367af55d193f0a2f07d17eb/IMG_20260529_225805.jpg" alt="coding gif"/>
+<img align="right" width="220px" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" alt="coding gif"/>
 
 ```
 ◈  Class     →  Full-Stack Apprentice
@@ -72,8 +73,8 @@ Currently learning **Python**, **Java** and **web fundamentals**, building real 
 
 <br/><br/>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=K3st777&show_icons=true&theme=dark&title_color=ffffff&icon_color=ffffff&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K3st777&layout=compact&theme=dark&title_color=ffffff&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=K3st777&show_icons=true&theme=dark&title_color=ffffff&icon_color=ffffff&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true&hide_border=false"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K3st777&layout=compact&theme=dark&title_color=ffffff&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&hide_border=false"/>
 
 </div>
 
