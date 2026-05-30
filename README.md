@@ -33,7 +33,7 @@
 
 Currently learning **Python**, **Java** and **web fundamentals**, building real projects and growing every day as a developer.
 
-<img align="right" width="220px" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" alt="coding gif"/>
+<img align="right" width="220px" src="https://github.com/K3st777/K3st777/blob/0d5574a28e3a4654e367af55d193f0a2f07d17eb/IMG_20260529_225805.jpg" alt="coding gif"/>
 
 ```
 ◈  Class     →  Full-Stack Apprentice
