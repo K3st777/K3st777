@@ -8,7 +8,7 @@
 
 ---
 
-<img align="right" src="https://media.tenor.com/rBNaFDycVccAAAAC/guts-berserk.gif" width="280px" style="border-radius:8px"/>
+<img align="right" src="https://pin.it/6PmlBuCEM" width="280px" style="border-radius:8px"/>
 
 ## ![](https://i.imgur.com/zDMhiAU.png) *About me*
 
