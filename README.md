@@ -19,7 +19,7 @@
 
 <br/>
 
-<!-- PROFILE VIEWS — redireciona pro GitHub -->
+<!-- PROFILE VIEWS -->
 <div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=K3st777&style=flat-square&color=ffffff&label=PROFILE+VIEWS)](https://github.com/K3st777)
@@ -73,8 +73,8 @@ Currently learning **Python**, **Java** and **web fundamentals**, building real 
 
 <br/><br/>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=K3st777&show_icons=true&theme=dark&title_color=ffffff&icon_color=ffffff&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true&hide_border=false"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K3st777&layout=compact&theme=dark&title_color=ffffff&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&hide_border=false"/>
+<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=K3st777&show_icons=true&theme=dark&title_color=ffffff&icon_color=ffffff&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true"/>
+<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=K3st777&layout=compact&theme=dark&title_color=ffffff&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a"/>
 
 </div>
 
